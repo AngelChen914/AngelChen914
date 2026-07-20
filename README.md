@@ -14,7 +14,3 @@ I'm a **Software Engineer** and **Machine Learning enthusiast** based in NY. I l
 
 ### 📈 Currently Learning
 * Completing a **Machine Learning Certificate** from Cornell University (Expected: Aug 2026).
-
-* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelChen914&layout=compact&theme=radical)](https://github.com/anuraghazr/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelChen914&show_icons=true&theme=radical)
