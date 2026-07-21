@@ -8,9 +8,8 @@ I'm a **Software Engineer** and **Machine Learning enthusiast** based in NY. I l
 * **Web:** React, Node.js, HTML/CSS
 * **Tools:** Git
 ### 🚀 Featured Projects
-* **[Quack Engine](https://github.com/your-username/quack-engine):** A custom chess engine built from scratch.
-* **[The Chess Hub](https://github.com/your-username/the-chess-hub):** A full-stack web application designed for interactive chess analysis.
-* **[MemeFest](https://github.com/your-username/memefest):** A collaborative hackathon project built during HopperHacks 2026.
+* **[The Chess Hub](https://github.com/AngelChen914/the-chess-hub):** A full-stack web application designed for interactive chess analysis.
+* **[MemeFest](https://github.com/AngelChen914/memefest):** A collaborative hackathon project built during HopperHacks 2026.
 
 ### 📈 Currently Learning
 * Completing a **Machine Learning Certificate** from Cornell University (Expected: Aug 2026).
